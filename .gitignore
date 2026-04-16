@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated / working files
+logo_src.txt
+logo_b64.txt
+photo_data.js
+fix_widget.py
+slide-1.jpg
+
+# Unpacked PPTX (large binary tree)
+unpacked/
+
+# PPTX binaries
+*.pptx
+
+# Script Lab export
+*.script-lab.json
