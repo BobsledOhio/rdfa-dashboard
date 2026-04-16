@@ -13,8 +13,8 @@
   <!-- ══ DISPLAY ═══════════════════════════════════════════════════════════ -->
   <DisplayName DefaultValue="RDFA Dashboard"/>
   <Description DefaultValue="Live RDFA project gallery, team roster, services, and discussion prompts — embedded directly in your slide."/>
-  <IconUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/rdfa-dashboard/icon.png"/>
-  <HighResolutionIconUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/rdfa-dashboard/icon.png"/>
+  <IconUrl DefaultValue="https://BobsledOhio.github.io/rdfa-dashboard/icon.png"/>
+  <HighResolutionIconUrl DefaultValue="https://BobsledOhio.github.io/rdfa-dashboard/icon.png"/>
   <SupportUrl DefaultValue="https://www.rdfa.com"/>
 
   <!-- ══ HOSTS ══════════════════════════════════════════════════════════════ -->
@@ -30,9 +30,9 @@
   </Requirements>
 
   <!-- ══ SOURCE + SIZE ══════════════════════════════════════════════════════
-       ★ Replace YOUR_GITHUB_USERNAME and rdfa-dashboard with your values ★  -->
+       ★ Replace BobsledOhio and rdfa-dashboard with your values ★  -->
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/rdfa-dashboard/script-lab-widget.html"/>
+    <SourceLocation DefaultValue="https://BobsledOhio.github.io/rdfa-dashboard/script-lab-widget.html"/>
     <RequestedWidth>800</RequestedWidth>
     <RequestedHeight>600</RequestedHeight>
   </DefaultSettings>
